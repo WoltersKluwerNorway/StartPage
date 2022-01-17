@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Information LastUpdate="2022-01-17T15:06:44">
-  <Group Title="test version" Version="&lt;=2021.7">
+<Information LastUpdate="2022-01-17T15:11:45">
+  <Group Title="test meget gammel version" Version="&lt;=2021.7">
     <Item Title="test vises gammel version" Version="&gt;=2021.7" Visible="False" Icon="Information">test vises gammel version ?</Item>
   </Group>
   <Group Title="Revision 2022.1 (internal version 2022.1)" Version="2022.1">

@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="iso-8859-1"?>
 <Information>
-  <Group Title="TEST EIVOR Version 2021.2.1 med stöd för omställningsstöd juli-sept 2021 (2021-07-12) - FRA GITHUB SWE" Version="&lt;=2021.6">
+  <Group Title="TEST EIVOR 2022.1 ''''''' Version 2021.2.1 med stöd för omställningsstöd juli-sept 2021 (2021-07-12) - FRA GITHUB SWE" Version="&lt;=2021.6">
     <Item Link="https://programleverans.wolterskluwer.se/programleverans/Revision/20216/Nyheter Revision.pdf" Title="Version med stöd för granskning av ansökan omst.stöd juli-september 2021" Version="&lt;=2021.6">Nytt i denna version är stöd för granskning av ansökan om omställningsstöd på minst 100.000 kr för juli, augusti respektive september 2021 pga covid-19, samt justeringar för perioderna maj och juni 2021:
 
 *  Ny Ordbehandlingsmall, ver 21, med ett nytt Uppdragsbrev, ett nytt Uttalande från företagsledningen och en ny Revisors rapport över faktiska iakttagelser, för respektive period

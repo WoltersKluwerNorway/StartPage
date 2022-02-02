@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
-   <Group Title="Indberetning til Erhvervsstyrelsen">
-    <Item Title="Indberetning af årsrapport utilgængelig">Grundet opdateringer i Erhvervsstyrelsens interne it-systemer, vil det ikke være muligt at foretage digital indberetning af årsrapporter fra fredag den 28. januar kl. 19.45 til søndag d. 30. januar kl.16.30. &#10;Dette gælder både indberetning direkte fra Årsafslutning og indberetning via Erhvervsstyrelsens selvbetjeningsløsning (Regnskab - Special og Regnskab - Basis).
-    </Item>
-  </Group>
    <Group Title="Fejl i Årsafslutning 2021.3">
     <Item Title="Fejl ved 'Test og validering før indsendelse'"
     	  Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2021.3.pdf">Årsafslutning 2021.3 melder fejl når funktionen 'Test og validering før indsendelse' anvendes. &#10;Til validering af XBRL filen kan man istedet klikke på 'Indsend til erhvervsstyrelsen' og klikke ja til at validere filen inden indsendelse. Så vil XBRL filen blive valideret på samme vis som ved funktionen 'Test og validering før indsendelse'&#10;Får man ingen fejlbesked, men kommer direkte til indsendelsesvinduet. Så er XBRL filen valideret uden fejl, og indsendelsesvinduet kan lukkes.

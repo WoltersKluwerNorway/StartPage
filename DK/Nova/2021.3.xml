@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
   <Group Title="Skat Nova 2021.3">
-    <Item Title="Test" Version="2021.3" Icon="Information">Xxx</Item>
-    <Item Link="https://software2.wolterskluwer.dk/nova/dokumentation/SkatNovaVersion20212.pdf" Title="hghgh" Icon="Information">Yyy</Item>
+    <Item Link="https://software2.wolterskluwer.dk/nova/dokumentation/SkatNovaVersion20213.pdf" Title="Skat Nova 2021.3 er udkommet" Version="2021.3" Icon="Information">Skat Nova 2021 kan nu importere R75 data fra Skattemappen.&#13;&#10;&#13;&#10;Skat Nova har desuden fået tilføjet mulighed for at sammenligne data i Skat Nova med data hos Skat. Find muligheden i Arbejdsgang... Afstemning.  &#13;&#10;&#13;&#10;Læs vejledningen for mere information om disse ting, samt om øvrige ændringer i denne version af Skat Nova 2021.</Item>
   </Group>
 </Information>

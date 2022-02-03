@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
   <Group Title="Skat Nova 2021.3">
-    <Item Title="xyz" Version="2021.3" Icon="Information">Xxxx.</Item>
+    <Item Link="https://software2.wolterskluwer.dk/nova/dokumentation/SkatNovaVersion20212.pdf" Title="Forskudsskat for 2022" Icon="Information">Skat Nova 2021.2 er den første version af programmet, som kan benyttes til beregning af skat for indkomståret 2022.&#13;&#10;&#13;&#10;Se vejledningen for information om de øvrige ændringer i denne version af Skat Nova 2021.</Item>
+    <Item Title="Text WITHOUT (type error)æøåÆØÅ" Icon="Error">Bla2&#10;bla2&#10;bla2&#10;æøåÆØÅ (commit/push via: git kommandore!)</Item>
+    <Item Title="Text WITHOUT (type warning)" Icon="Warning">Bla3 bla3 bla3</Item>
+    <Item Title="Text WITHOUT æøåÆØÅ(type none)æøåÆØÅ" Icon="None">Bla4 bla4 bla4æøåÆØÅ (commit/push via program: GitHub Desktop)</Item>
+    <Item Title="Text WITHOUT (type information) æøå ÆØÅ" Icon="Information">Bla5 bla5 bla5 æ Ø Å Æ ø å (commit/push via www: github.com)</Item>
+    <Item Title="Visible" Version="2021.3" Icon="Information">Visible</Item>
+    <Item Title="Not visible" Version="2021.3" Visible="False" Icon="Information">Not visible</Item>
   </Group>
 </Information>

@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Information LastUpdate="2022-02-07T14:44:42">
-  <Group Title="Fejl i Årsafslutning 2021.3">
-    <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2021.3.pdf" Title="Fejl ved &apos;Test og validering før indsendelse&apos;" Icon="None">Årsafslutning 2021.3 melder fejl når funktionen &apos;Test og validering før indsendelse&apos; anvendes. &#10;Til validering af XBRL filen kan man istedet klikke på &apos;Indsend til erhvervsstyrelsen&apos; og klikke ja til at validere filen inden indsendelse. Så vil XBRL filen blive valideret på samme vis som ved funktionen &apos;Test og validering før indsendelse&apos;&#10;Får man ingen fejlbesked, men kommer direkte til indsendelsesvinduet. Så er XBRL filen valideret uden fejl, og indsendelsesvinduet kan lukkes.</Item>
-  </Group>
+<Information LastUpdate="2022-02-07T16:41:02">
   <Group Title="Årsafslutning 2022.1">
-    <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2021.3.pdf" Title="Nyheder til Årsafslutning 2022.1" Icon="Information">VIRKSOMHEDER&#13;&#10; - Ny XBRL taksonomi&#13;&#10; - Opdatering af erklæringer&#13;&#10; - Nye linjer i egenkapitalopgørelsen&#13;&#10; - Ny note &apos;Skattepligtig indkomst til regnskabsklasse A&apos;&#13;&#10;&#13;&#10; INDKOMST- OG FORMUEOPGØRELSE&#13;&#10;  - Nye felter i kapitalafkastordningen vedr. forældrekøb&#13;&#10;  - Nye felter i virksomhedsskatteordningen vedr. forældrekøb&#13;&#10;  - Nye felter i regnskabsoplysninger vedr. I/S&#13;&#10;  - Nye værdipapirnoter med anskaffelsessum&#13;&#10;&#13;&#10;Se vejledningen for detaljeret information om nyheder i Årsafslutning 2021.3.</Item>
+    <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2021.3.pdf" Title="Nyheder til Årsafslutning 2022.1" Icon="Information">VIRKSOMHEDER&#13;&#10;  - Andelsboligforening tilpasset ifht. nyt modelregnskab&#13;&#10;  - Reklassificering&#13;&#10;  - Test og validering&#13;&#10;  - Tilpasse anvendt regnskabspraksis på engelsk&#13;&#10;&#13;&#10; INDKOMST- OG FORMUEOPGØRELSE&#13;&#10;  - Tilpasset udskrift af virksomhedsskatteordningen&#13;&#10;&#13;&#10;Se vejledningen for detaljeret information om nyheder i Årsafslutning 2022.1.</Item>
   </Group>
 </Information>

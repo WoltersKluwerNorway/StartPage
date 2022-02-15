@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
-  <Group Title="Skat Nova 2021.3 TEST">
-    <Item Title="Forskudsskat for 2022"
-    	  Link="https://software2.wolterskluwer.dk/nova/dokumentation/SkatNovaVersion20212.pdf">Skat Nova 2021.2 er den første version af programmet, som kan benyttes til beregning af skat for indkomståret 2022.&#10;&#10;Se vejledningen for information om de øvrige ændringer i denne version af Skat Nova 2021.
-    </Item>
-    <Item Title="Text WITHOUT (type error)æøåÆØÅ" Icon="Error">Bla2&#13;&#10;bla2&#13;&#10;bla2&#13;&#10;æøåÆØÅ (commit/push via: git kommandore!)</Item>
-    <Item Title="Text WITHOUT (type warning)" Icon="Warning">Bla3 bla3 bla3</Item>
-    <Item Title="Text WITHOUT æøåÆØÅ(type none)æøåÆØÅ" Icon="None">Bla4 bla4 bla4æøåÆØÅ (commit/push via program: GitHub Desktop)</Item>
-    <Item Title="Text WITHOUT (type information) æøå ÆØÅ" Icon="Information">Bla5 bla5 bla5 æ Ø Å Æ ø å (commit/push via www: github.com)</Item>
-    <Item Title="Visible" Version="2021.3" Icon="Information">Visible</Item>
-    <Item Title="Not visible" Version="2021.3" Visible="False" Icon="Information">Not visible</Item>
+  <Group Title="Skat Nova 2021.3">
+    <Item Title="Vi har lavet en korrektion til R75-import af indeholdt udenlandsk udbytteskat (9/2 2022)" Version="2021.3" Icon="Information">Efter udgivelsen af Skat Nova 2021.3 har vi konstateret, at oplysninger om indeholdt udenlandsk udbytteskat ikke blev overført korrekt til Værdipapirmodulet i Skat Nova 2021.3 ved R75 import. &#13;&#10;&#13;&#10;Vi har lokaliseret og rettet fejlen. Du skal ikke foretage dig noget, for rettelsen ligger i en mapping-fil som programmet selv henter fra vores web-server.&#13;&#10;&#13;&#10;Vær dog opmærksom på at den automatiske opdatering kræver internetadgang, samt at R75-import af disse udbytter til Skat Nova&#146;s værdipapirmodul, foretaget mellem udgivelsen af Skat Nova 2021.3 og frem til i dag, kan være fejlbehæftet.&#13;&#10;&#13;&#10;Hvis du har importeret R75-data til Skat Nova for kunder med sådanne udbytter, bør du foretage importen igen.&#13;&#10;</Item>
+    <Item Link="https://software2.wolterskluwer.dk/nova/dokumentation/SkatNovaVersion20213.pdf" Title="Skat Nova 2021.3 er udkommet" Version="2021.3" Icon="Information">Skat Nova 2021 kan nu importere R75 data fra Skattemappen.&#10;&#10;Skat Nova har desuden fået tilføjet mulighed for at sammenligne data i Skat Nova med data hos Skat. Find muligheden i Arbejdsgang... Afstemning.  &#10;&#10;Læs vejledningen for mere information om disse ting, samt om øvrige ændringer i denne version af Skat Nova 2021.</Item>
   </Group>
 </Information>

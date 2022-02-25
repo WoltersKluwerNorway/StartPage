@@ -2,5 +2,6 @@
 <Information LastUpdate="2022-02-09T13:13:27">
   <Group Title="Årsafslutning 2022.2 TEST!">
     <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.2" Icon="Information">TEST TEST TEST VIRKSOMHEDER&#13;&#10;  - Andelsboligforening tilpasset ifht. nyt modelregnskab fra Erhvervsstyrelsen&#13;&#10;  - Reklassificering rettet&#13;&#10;  - Test og validering rettet&#13;&#10;  - Anvendt regnskabspraksis på engelsk tilpasset&#13;&#10;&#13;&#10; INDKOMST- OG FORMUEOPGØRELSE&#13;&#10;  - Udskrift af virksomhedsskatteordningen tilpasset&#13;&#10;&#13;&#10;Se vejledningen for detaljeret information om nyheder i Årsafslutning 2022.1.</Item>
+    <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.2" Icon="Error" Visible="true">VISIBLE TEST</Item>
   </Group>
 </Information>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>  
   <Group Title="Nyheter 2021.4">
-    <Item Title="Ny versjon av Skatt foreligger">Det kan nå oppdateres til Skatt 2021.5 fra programmet eller som installasjon fra linken under. Nedlasting fra hjemmeside kan først foretas i løpet av morgendagen 22. mars.</Item>
-<Link="https://software.wolterskluwer.no/support/skatt/Skatt_2021.5.exe">  
+<Item Link="https://software.wolterskluwer.no/support/skatt/Skatt_2021.5.exe" Title="Ny versjon av Skatt foreligger">Det kan nå oppdateres til Skatt 2021.5 fra programmet eller som installasjon fra linken under. Nedlasting fra hjemmeside kan først foretas i løpet av morgendagen 22. mars.</Item>
   </Group>
 </Information>

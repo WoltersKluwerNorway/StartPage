@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
   <Group Title="Skat Nova 2021.4" Version="2021.4">
-    <Item Link="https://software2.wolterskluwer.dk/nova/dokumentation/SkatNovaVersion20214.pdf" Title="Skat Nova 2021.4 er udkommet" Version="2021.4" Icon="Information">Med Skat Nova 2021.4 kan du indberette oplysningsskemaerne elektronisk til Skatteforvaltningen -  nu inkl. visse udenlandske indkomster.&#13;&#10;&#13;&#10;Læs vejledningen for mere information om denne, samt om øvrige nyheder og ændringer i denne version af Skat Nova 2021.</Item>
+    <Item Link="https://software2.wolterskluwer.dk/nova/dokumentation/SkatNovaVersion20214.pdf" Title="Skat Nova 2021.4 er udkommet" Version="2021.4" Icon="Information">Med Skat Nova 2021.4 kan du indberette oplysningsskemaerne elektronisk til Skatteforvaltningen -  nu inkl. visse udenlandske indkomster.&#10;&#10;Læs vejledningen for mere information om denne, samt om øvrige nyheder og ændringer i denne version af Skat Nova 2021.</Item>
+    <Item Link="https://software2.wolterskluwer.dk/nova/dokumentation/Kommunikationsobjektet.pdf" Title="Løsning, hvis du får en fejlbesked vedrørende kommunikationsobjektet - 24.03.2021" Version="2021.4" Icon="Information">Nogle brugere af Skat Nova 2021.4 har oplevet en fejlbesked vedr. kommunikationsobjektet. Se her hvordan det løses.</Item>
+    <Item Link="https://software2.wolterskluwer.dk/nova/dokumentation/MissingCvrSeData.pdf" Title="Løsning, hvis du får denne fejlbesked: Missing CvrSe data - 24.03.2021" Version="2021.4" Icon="Information">Nogle brugere af Skat Nova 2021.4 har oplevet denne fejlbesked. Læs her hvordan problemet løses.</Item>
   </Group>
 </Information>

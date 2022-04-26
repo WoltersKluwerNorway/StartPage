@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>  
   <Group Title="Feilrettelser i 2021.5a">
-    <Item Title="Personlig skattemelding">I RF-1030 kom det melding om ”Feil årstall” ved nedlasting av informasjon til post 4.3.2 for bolig og annen fast eiendom. Feilen oppstod for eiendom med byggeår 2021.</Item>
+    <Item Title="Personlig skattemelding">I RF-1030 kom det melding om Feil årstall ved nedlasting av informasjon til post 4.3.2 for bolig og annen fast eiendom. Feilen oppstod for eiendom med byggeår 2021.</Item>
     <Item Title="Personlig skatteberegning">Ved beregning av nedsettelse av inntektsskatt og maksimalt kreditfradrag var Storbritannia feilaktig medregnet som et EØS-land. Dette gjorde at nedsettelse etter alternativ fordelingsmetode og maksimalt kreditfradrag ble satt for høyt når inntekten var fra Storbritannia.</Item>
     <Item Title="Næringsoppgave 2">I RF-1167 post 8115 for nedskrivning av finansielle eiendeler ble eventuell reversering av tidligere nedskrivning (negativt fortegn) tilbakeført i post 0632 istedenfor post 0832.</Item>
     <Item Title="Skattemelding for petroleum ">I RF-1323 post 201 for næringsinntekt/underskudd fra post 0999 ble det overført et feil beløp til feltet for sokkel 56%-grunnlaget. På utskrift av skjemaet beregning av friinntekt RF-1120 post 2 for driftsmidler iht. Petrsktl. § 3 b omfattet av overgangsregler fra 2013, kom sumlinjen ikke med på utskrift. Dette hadde ingen konsekvens for innsendelse til Altinn.</Item>

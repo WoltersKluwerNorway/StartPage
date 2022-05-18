@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Information>
+<Information LastUpdate="2022-05-18T00:00:00">
   <Group Title="Årsafslutning 2022.1">
-    <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/ErklæringDobbelt.pdf" Title="Erklæring vises dobbelt" Version="2022.1" Icon="Information">Der kan i visse tilfælde opstå et problem i indkomst- og formueopgørelsen, hvor erklæringen fremgår dobbelt i indholdsfortegnelsen.&#13;&#10;&#13;&#10;Problemet løses ved at følge vejledningen, som findes ved at klikke på &apos;Læs mere&apos; nedenfor.</Item>
+    <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/ErklæringDobbelt.pdf" Title="Erklæring vises dobbelt" Version="2022.1" Icon="Information">Der kan i visse tilfælde opstå et problem i indkomst- og formueopgørelsen, hvor erklæringen fremgår dobbelt i indholdsfortegnelsen.&#10;&#10;Problemet løses ved at følge vejledningen, som findes ved at klikke på &apos;Læs mere&apos; nedenfor.</Item>
     <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.1" Icon="Information">VIRKSOMHEDER&#10;  - Andelsboligforening tilpasset ifht. nyt modelregnskab fra Erhvervsstyrelsen&#10;  - Reklassificering rettet&#10;  - Test og validering rettet&#10;  - Anvendt regnskabspraksis på engelsk tilpasset&#10;&#10; INDKOMST- OG FORMUEOPGØRELSE&#10;  - Udskrift af virksomhedsskatteordningen tilpasset&#10;&#10;Se vejledningen for detaljeret information om nyheder i Årsafslutning 2022.1.</Item>
   </Group>
 </Information>

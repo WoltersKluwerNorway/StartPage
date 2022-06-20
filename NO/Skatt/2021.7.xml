@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Information>  
+  <Group Title="Versjonen inneholder rettelser av enkelte svakheter">
+    <Item Title="Upersonlig skattemelding">I RF-1028 bør post 285 for anvendelse av framført underskudd fra tidligere år kontrolleres. En svakhet i koden for denne posten har medført at beregnet beløp i enkelte tilfeller ikke ble rekalkulert ved endringer i sum alminnelig inntekt. Skatteetaten har meddelt oss at saksbehandlere og systemet deres fanger opp disse sakene og flagger de med avvik, slik at skatteberegningen og fremføringen av underskudd til neste år blir korrekt i Skatteetatens systemer og på skatteoppgjøret. Feilen er rettet i denne versjonen. 
+Før årskonvertering til 2022 anbefaler vi derfor at post 285 og post 290 kontrolleres i skattemeldingen for 2021 slik at post 280 i 2022 blir korrekt ved oppstart av arbeidet med nytt skatteår.</Item>
+    <Item Title="Personlig skattemelding">I post 2.7.14 for kompensasjonsytelse til næringsdrivende utbetalt fra NAV var det ikke mulig å legge inn verdi.</Item>
+    <Item Title="Personlig skatteberegning">I skatteberegningen ble renteinntekt ved lån fra selskap (ekstrabeskatning) ikke oppjustert med 1,44 jf. sktl. § 5-22 annet ledd tredje punktum. Endringen har kun betydning for den interne skatteberegningen i Skatt og ikke for verdiene i innsendt skattemelding. 
+Ved alternativ fordelingsmetode er skatt på global alminnelig inntekt som skal fordeles justert ren for skatteeffekten av oppjusterte inntekter og fradrag fra gevinst/tap eller utbytte på aksjer.</Item>
+    <Item Title="Kraftverk">I RF-1153 i beregningen av særskilt eiendomsskattegrunnlag for utskriving av eiendomsskatt i 2023 ble gjennomsnittlig produksjon (post 210) redusert med medgått pumpekraft (post 211) i post 363 og 364.   
+I RF-1151 post 6 for fordelingsnøkkel ved positiv samordnet grunnrenteinntekt er antall desimaler økt for å gjøre post 5 og 20 like når kun positive beløp i post 5. Antall desimaler som sendes til Altinn er uendret. Overføring av positiv grunnrenteinntekt til post 5 fra RF-1153 post 158 er også endret.   
+</Item>
+   </Group>
+</Information>

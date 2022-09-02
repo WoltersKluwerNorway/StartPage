@@ -3,6 +3,6 @@
   <Group Title="Årsafslutning 2022.2">
     <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.2" Icon="Information">VIRKSOMHEDER&#13;&#10;  - Nye noter:&#13;&#10;    - Samlet note for immaterielle anlægsaktiver&#13;&#10;    - Samlet note for finansielle anlægsaktiver&#13;&#10;  - Egenkapitalopgørelsen rettet&#13;&#10;  - Engelsk oversættelse af specifikationshæftet&#13;&#10;&#13;&#10; INDKOMST- OG FORMUEOPGØRELSE&#13;&#10;  - Forsiden rettet&#13;&#10;  - Nemmere opdatering af egne skabeloner&#13;&#10;&#13;&#10;Se vejledningen for detaljeret information om nyheder i Årsafslutning 2022.2.</Item>
     <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.2" Icon="Error" Visible="false">VISIBLE TEST</Item>
-    <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.2" Icon="Error" Visible="true">VISIBLE TEST2 NEW</Item>
+    <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.2" Icon="Error" Visible="false">VISIBLE TEST2 NEW</Item>
   </Group>
 </Information>

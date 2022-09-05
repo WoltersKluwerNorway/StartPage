@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Calendar>
-  <CalendarEntry Date="2022-03-22T13:44:14" Id="0" Title="Skat Nova 2021.4 er udkommet">Med denne version kan du indberette oplysningsskemaer elektronisk</CalendarEntry>
   <CalendarEntry Date="2022-05-09T13:44:14" Id="0" Title="Skat Nova 2021.5 er udkommet">Print af R75 afstemning, negative renteindtægter i virksomhed m.fl.</CalendarEntry>
-  <CalendarEntry Date="2022-09-05T13:44:14" Id="0" Title="Skat Nova 2022.1 udkommer">Første udgave af Skat Nova 2022. Benyttes primært for skatteydere med bagudforskudt år.</CalendarEntry>
+  <CalendarEntry Date="2022-09-05T13:44:14" Id="0" Title="Skat Nova 2022.1 er udkommet">Første udgave af Skat Nova 2022. Benyttes primært for skatteydere med bagudforskudt år</CalendarEntry>
+  <CalendarEntry Date="2022-10-25T13:44:14" Id="0" Title="Skat Nova 2022.2 udkommer">Med denne version kan du udarbejde forskudsopgørelser for 2023</CalendarEntry>
 </Calendar>

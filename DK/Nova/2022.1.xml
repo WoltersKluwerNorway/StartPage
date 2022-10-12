@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
   <Group Title="Skat Nova 2022.1" Version="2022.1">
+    <Item Title="Forhøjelse af beskæftigelsesfradraget" Version="2022.1" Icon="Information">Folketinget har vedtaget (L204) forhøjelse af det maksimale beskæftigelsesfradrag, således at det for indkomståret 2022 udgør 43.500 kr. Vi har opdateret satsen i Skat Nova 2021 og Skat Nova 2022. &#13;&#10;&#13;&#10;Du behøver ikke foretage dig noget - du har sikkert allerede fået de nye satser. Det kræver nemlig hverken en ny programversion eller en micro-opdatering at få rentesatserne opdateret. Skat Nova 2021.5 og Skat Nova 2022.1 kan selv hente de opdaterede satser fra vores web-server. &#13;&#10;&#13;&#10;Vær dog opmærksom på at denne automatiske opdatering kræver internetadgang.</Item>
     <Item Link="https://software2.wolterskluwer.dk/nova/dokumentation/SkatNovaVersion20221.pdf" Title="Første version af Skat Nova 2022" Version="2022.1" Icon="Information">Vi er nu klar med en ny årgang af Skat Nova. Med Skat Nova 2022 kan du lave oplysningsskemaer, årsopgørelser og indkomst-/formueopgørelser (personlige regnskaber) for 2022.  &#13;&#10;&#13;&#10;Læs vejledningen for information om nyheder og ændringer i denne version af Skat Nova.</Item>
   </Group>
 </Information>

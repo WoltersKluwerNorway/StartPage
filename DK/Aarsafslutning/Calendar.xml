@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Calendar>
-  <CalendarEntry Date="2022-02-10T13:44:14" Id="0" Title="Årsafslutning 2022.1">Release af Årsafslutning 2022.1&#10;&#10;Denne version af Årsafslutning indeholder tilpasninger af andelsboligforeningsmodellen ifbm. ERST&apos;s nye modelregnskab</CalendarEntry>
   <CalendarEntry Date="2022-09-05T13:44:14" Id="0" Title="Årsafslutning 2022.2">Årsafslutning 2022.2 er tilgængelig</CalendarEntry>
-  <CalendarEntry Date="2022-11-16T13:44:14" Id="0" Title="Årsafslutning 2022.3">Forventet release af Årsafslutning 2022.3 som vil indeholde flere mindre ændringer og fejlrettelser.</CalendarEntry>
+  <CalendarEntry Date="2022-11-21T13:44:14" Id="0" Title="Årsafslutning 2022.3">Forventet release af Årsafslutning 2022.3 som vil indeholde flere mindre ændringer og fejlrettelser.</CalendarEntry>
 </Calendar>

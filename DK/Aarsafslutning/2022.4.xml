@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
   <Group Title="Årsafslutning 2022.3">
-    <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.3.pdf" Title="Nyheder til Årsafslutning 2022.3" Icon="Information">I denne version af Årsafslutning har vi haft fokus på at rette fejl og uhensigtsmæssigheder i programmet.&#13;&#10;Vi har desuden tilføjet mulighed for at have engelsk tegnsætning i den engelske rapport. Dette kræver professionel licens.</Item>
+    <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.3.pdf" Title="Nyheder til Årsafslutning 2022.4" Icon="Information">Denne version af Årsafslutning indeholder den nye XBRL taksonomi.</Item>
     <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.2" Visible="False" Icon="Error">VISIBLE TEST</Item>
     <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.2" Visible="False" Icon="Error">VISIBLE TEST2 NEW</Item>
   </Group>

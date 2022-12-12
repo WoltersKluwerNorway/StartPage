@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Information LastUpdate="2022-10-11T15:19:37">
+<Information LastUpdate="2022-12-12T09:04:18">
+  <Group Title="Revision 2022.3" Version="2022.4">
+    <Item Link="https://software2.wolterskluwer.dk/revision/Dokumentation/nyhederrevision - 2022.3.pdf" Title="Revision 2022.3" Version="2022.4" Icon="Information">I denne version af Revision er der følgende nyheder:&#13;&#10;&#13;&#10;- Ibende risiko - mulighed for registrering af spektrum&#13;&#10;- IT- systemer opdateret&#13;&#10;&#13;&#10; Ny side til genvurdering af &#13;&#10;- Regnskabsmæssige skøn&#13;&#10;- Områder der ikke er betydelige, men væsentlige&#13;&#10;- Overordnet risikovurdering</Item>
+  </Group>
   <Group Title="Revision 2022.2" Version="2022.2">
     <Item Link="https://software2.wolterskluwer.dk/revision/Dokumentation/nyhederrevision - 2022.2.pdf" Title="Revision 2022.2" Icon="Information">I denne version af Revision er der følgende nyheder:&#13;&#10;&#13;&#10;- ny teknisk platform - print muligheder&#13;&#10;- Indledende handlinger er opdateret incl PEP erklæring fra kunde&#13;&#10;- Forståelse af kunde - beregning af væsentlighed &#13;&#10;- Udvidet gennemgang &#13;&#10;  - handlinger til regnskabsmæssige skøn tilføjet&#13;&#10;  - De fire særlige handlinger tilføjet til generelle handlinger&#13;&#10;- Covid19 Slutopgørelser lønninger opdateret&#13;&#10;- flere mindre tilrettelser</Item>
   </Group>

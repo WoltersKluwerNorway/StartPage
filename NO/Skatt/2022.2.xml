@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
    <Group Title="Nyheter">
-    <Item Title="Feil i konvertering av filer med selskapsmelding for selskap med deltakerfastsetting (RF-1215)">Det finnes nå en oppdatering til versjon 2022.2a som retter feilen. Oppdatering kan foretas fra programmet. Installasjonsfil blir tilgjengelig tirsdag 3. januar.</Item>  
+    <Item Title="Feil i konvertering av filer med selskapsmelding for selskap med deltakerfastsetting (RF-1215)">Det finnes nå en oppdatering til versjon 2022.2a som retter denne feilen. Oppdatering kan foretas fra programmet. Installasjonsfil blir tilgjengelig tirsdag 3. januar.</Item>  
     <Item Title="Personlig skattemelding">Versjonen støtter ikke personlig skattemelding. Ny løsning for personlig skattemelding og enkeltpersonforetak kommer i Capego for inntektsåret 2022.</Item>
     <Item Title="Altinn">Skatt 2022.2 er klargjort for innsendelse av aksjonærregisteroppgave (RF-1086), grunnlagsdata for boligselskap (RF-1139), boligsameie (RF-1140), banker (RF-1183), barnehager og skolefritidsordninger (RF-1241) og rapportering land-for-land (RF-1352). Aksjonærregisteroppgaven kan hente ned prefill og sende inn allerede nå, men grunnlagsdata kan først sendes inn fra og med 2. januar.</Item>
     <Item Title="Aksjonærregister">I post 23 og 25 skal det fra og med inntektsåret 2022 ikke benyttes transaksjonen Gavesalg ved innrapportering. Transaksjonen er tilgjengelig for tidligere inntektsår.</Item>

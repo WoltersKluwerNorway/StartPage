@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Information>
+   <Group Title="Nyheter">
+    <Item Title="Personlig skattemelding">Versjonen støtter ikke personlig skattemelding. Ny løsning for personlig skattemelding og enkeltpersonforetak kommer i Capego Årsoppgjør våren 2023.</Item>
+    <Item Title="Skjemaer">Samtlige skatteskjemaer er nå oppdatert for 2022. En god del rettledninger til skjemaene er også oppdatert. Resten oppdateres via internett etter hvert som de er klare fra Skatteetaten.
+    
+   Næringsoppgave 6 for livsforsikringsforetak, pensjonskasser mv. (RF-1501) og næringsoppgave 7 for skadeforsikringsforetak (RF-1503) har fått store endringer i denne versjonen. Det er også omfattende endringer i skjemaene for petroleumsbeskatning (RF-1323 og RF-1346). Alle endringer er inkludert i denne versjonen.</Item>
+    <Item Title="Satser">Skattesatser i skjemaene er oppdatert med de nyeste fastsatte satser. Normrente ved beregning av inntektstillegg for høy egenkapital i rederiskatteordningen og rentesatsen for friinntekt i kraftforetak fastsettes normalt først i slutten av januar. Satsene oppdateres automatisk i programmet når de foreligger.</Item>
+     <Item Title="Kommende versjoner">Altinn åpner opp for innsendelse av RF-1028, RF-1215, RF-1245 og RF-1323 den 16. februar. Skatt 2022.4, med innsendelse for selskaper vil foreligge senest 17. februar.</Item>
+  </Group>
+</Information>

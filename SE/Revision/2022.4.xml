@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
-  <Group Title="Kommande utbildning i revisionsprogrammet">
-    <Item Link="https://www.wolterskluwer.se/grundkurs-i-revisionsprogrammet-webbkurs-2-halvdagar" Title="Behöver du eller någon kollega utbildning i revisionsprogrammet?" Icon="Information">Nedan hittar du länk till information om, och anmälan till, utbildningen Grundkurs i revisionsprogrammet, som går som webbkurs under 2 halvdagar.&#10;&#10;Del 1 ons 18/1, kl 13:00 - 17:00 och del 2 tors 19/1, kl 9:00 - 12:00.</Item>
+  <Group Title="Version 2022.3 (2023-01-xx)">
+    <Item Link="https://programleverans.wolterskluwer.se/programleverans/Revision/20224/Nyheter Revision.pdf" Title="Nytt i version 2022.3" Icon="Information">Nytt i denna version är främst:&#13;&#10;*   Ny ordbehandlingsmall, ver 24, med &#13;&#10;*  &#13;&#10;&#13;&#10;Läs mer om detta och övriga nyheter i nyhetsbrevet i länken nedan.&#13;&#10;&#13;&#10;Vi arbetar nu vidare med bl a fler anpassningar pga förändringarna i ISA 315. De kommer i kommande version/-er.</Item>
   </Group>
   <Group Title="Version 2022.2 (2022-11-21)">
     <Item Link="https://programleverans.wolterskluwer.se/programleverans/Revision/20223/Nyheter Revision.pdf" Title="Nytt i version 2022.2" Icon="Information">Nytt i denna version är främst:&#13;&#10;*  Nya granskningsåtgärder för ISA 540 - Uppskattningar i redovisningen&#13;&#10;*  Ny ordbehandlingsmall, ver 23, med rättelse i revisionsberättelsen för AB när man använde guiden för att upprätta modifierad RB. Text som kom i fel ordning.&#13;&#10;*  Färgmarkering framför kontonumret på sidan Saldobalans&#13;&#10;*  Förbättringar i rapporten &quot;Importkontroller&quot; vid saldoimport &#13;&#10;*  Tre nya tomma checklistor under Allmänna revisionshandlingar&#13;&#10;&#13;&#10;Läs mer om detta och övriga nyheter i nyhetsbrevet i länken nedan.&#13;&#10;&#13;&#10;Vi arbetar nu vidare med anpassningar pga förändringarna i ISA 315. De kommer i kommande version/-er.&#13;&#10;&#13;&#10;OBS! För de av er som inte skulle göra digital inlämning av revisionsberättelsen till Bolagsverket i våras, och därmed inte har installerat versionerna 2022.1.1 - 2022.1.3, så finns länk till det nyhetsbrevet och manualen sist i detta nyhetsbrev.</Item>
@@ -30,6 +30,9 @@
   </Group>
   <Group Title="Version 2021.1 (2021-02-24)">
     <Item Link="https://programleverans.wolterskluwer.se/programleverans/Revision/20211/Nyheter Revision.pdf" Title="Nytt i version 2021.1" Icon="Information">Nytt i denna version är främst:&#10;*  Förenklad Guide för val av mallar - med en sida i st f tre&#10;*  Ny Ordbehandlingsmall, ver 18, för omodifierade (och modifierade) revisionsberättelser, med uppdateringarna i RevR 700 och RevR 17 i enlighet med FAR N 2020:26 och 2020:34&#10;*  Sidan Uppdragsbedömning omgjord till checklista i st f ordbehandlingsmall&#10;*  Ändrad företagsbeskattning/skattesats 2021 (201231)&#10;&#10;Läs mer om detta och övriga nyheter i nyhetsbrevet i länken nedan.</Item>
+  </Group>
+  <Group Title="Utbildning i revisionsprogrammet">
+    <Item Link="https://www.wolterskluwer.se/grundkurs-i-revisionsprogrammet-webbkurs-2-halvdagar" Title="Behöver du eller någon kollega utbildning i revisionsprogrammet?" Icon="Information">Nedan hittar du länk till information om, och anmälan till, utbildningen Grundkurs i revisionsprogrammet, som går som webbkurs under 2 halvdagar.</Item>
   </Group>
   <Group Title="Allmänt">
     <Item Title="Interaktiv startsida" Icon="Information">Med vår interaktiva startsida har vi möjlighet att ge dig aktuell information om programmet. Under rubriken &quot;Information&quot;.&#10;&#10;På högersidan finns en kalender för viktiga datum. Den listan kan du själv redigera genom att högerklicka i kalendern.</Item>

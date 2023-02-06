@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
-  <Group Title="Årsafslutning 2022.3">
-    <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.3.pdf" Title="Nyheder til Årsafslutning 2022.4" Icon="Information">VIRKSOMHEDER&#13;&#10;  - Ny taksonomi&#13;&#10;  - Tilføjelser til egenkapitalopgørelsen&#13;&#10;  - Tilføjelser til resultatdisponeringen&#13;&#10;  - Skriftstørrelser i programmet&#13;&#10;  - Link til ny supportside&#13;&#10;&#13;&#10; INDKOMST- OG FORMUEOPGØRELSE&#13;&#10;  - Nye noter vedr. værdipapir&#13;&#10;  - Fejlrettelse til noten &apos;Udskudt skat&apos;&#13;&#10;&#13;&#10;Se vejledningen for detaljeret information om nyheder i Årsafslutning 2022.4.</Item>
+  <Group Title="Årsafslutning 2022.4">
+    <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.4.pdf" Title="Nyheder til Årsafslutning 2022.4" Icon="Information">VIRKSOMHEDER&#13;&#10;  - Ny taksonomi&#13;&#10;  - Tilføjelser til egenkapitalopgørelsen&#13;&#10;  - Tilføjelser til resultatdisponeringen&#13;&#10;  - Skriftstørrelser i programmet&#13;&#10;  - Link til ny supportside&#13;&#10;&#13;&#10; INDKOMST- OG FORMUEOPGØRELSE&#13;&#10;  - Nye noter vedr. værdipapir&#13;&#10;  - Fejlrettelse til noten &apos;Udskudt skat&apos;&#13;&#10;&#13;&#10;Se vejledningen for detaljeret information om nyheder i Årsafslutning 2022.4.</Item>
     <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.2" Visible="False" Icon="Error">VISIBLE TEST</Item>
     <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.2" Visible="False" Icon="Error">VISIBLE TEST2 NEW</Item>
   </Group>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Information>
+  <Group Title="Skat Nova 2022.3">
+    <Item Link="https://software2.wolterskluwer.dk/nova/dokumentation/SkatNovaVersion20223.pdf" Title="Skat Nova 2022.3 er udkommet" Version="2022.3" Icon="Information">Skat Nova 2022 kan nu importere R75 data for 2022 fra Skattemappen.&#10;&#10;Læs vejledningen for mere information herom, samt om øvrige ændringer i denne version af Skat Nova 2022.</Item>
+    <Item Title="NemID / MitID - 19.01.2023" Icon="Information">Kan jeg benytte MitID til indberetning og hent R75 i Skat Nova?&#13;&#10;Nej, det kan du ikke.&#13;&#10;&#13;&#10;Skal jeg forny min NemID medarbejdersignatur, når/hvis den udløber inden 30/6 2023?&#13;&#10;Ja, det skal du.&#13;&#10;&#13;&#10;Skat Nova benytter NemID medarbejdersignatur som sikkerhedsløsning, når der hentes data fra Skattemappen (R75) samt når der indberettes oplysningsskemaer til Skat. &#13;&#10;&#13;&#10;Den nuværende løsning kan fortsat benyttes hele denne sæson, dvs. frem til 30/6 2023. Skatteforvaltningen implementerer først de nye løsninger senere.&#13;&#10;&#13;&#10;Skat Nova kommer derefter til at benytte de nye muligheder i MitID Erhverv.&#13;&#10;</Item>
+  </Group>
+</Information>

@@ -12,7 +12,7 @@
   <LinkItem Id="TeamViewer" Title="TeamViewer">https://support.wolterskluwer.dk/support/skatteprogram/skat-nova</LinkItem>
   <LinkItem Id="SkmDK" Title="Skatteministeriet">https://www.skm.dk</LinkItem>
   <LinkItem Id="SkatDK" Title="Skat">https://skat.dk/data.aspx</LinkItem>
-  <LinkItem Id="FkIntro" Title="Forældrekøb - Introduktion">https:software2.wolterskluwer.dk/Nova/Dokumentation/Foraeldrekoeb_eksempel_paa_rentekorrektion.pdf</LinkItem>
-  <LinkItem Id="FkEksempel" Title="Forældrekøb - Eksempel på rentekorrektion">https:software2.wolterskluwer.dk/nova/dokumentation/SkatNovaForaeldrekob.pdf</LinkItem>
-  <LinkItem Id="SkatRegnOplFritaget" Title="Er virksomheden fritaget for at give regnskabsoplysninger">https:www.skat.dk/data.aspx?oid=365343&chk=216409</LinkItem>
+  <LinkItem Id="FkIntro" Title="Forældrekøb - Introduktion">https://software2.wolterskluwer.dk/Nova/Dokumentation/Foraeldrekoeb_eksempel_paa_rentekorrektion.pdf</LinkItem>
+  <LinkItem Id="FkEksempel" Title="Forældrekøb - Eksempel på rentekorrektion">https://software2.wolterskluwer.dk/nova/dokumentation/SkatNovaForaeldrekob.pdf</LinkItem>
+<!--  <LinkItem Id="SkatRegnOplFritaget" Title="Er virksomheden fritaget for at give regnskabsoplysninger">https://www.skat.dk/data.aspx?oid=365343&chk=216409</LinkItem> -->
 </Links>

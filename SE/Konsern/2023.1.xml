@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Information>
+    <Group Title="Nyheter 2023.1">
+    <Item Title="Uppdaterad licenshanterare" Icon="None" />
+    <Item Title="Tekniska förbättringar" Icon="None" />
+    <Item Title="Underkoncern" Icon="None">Förbättring vid import underkoncern</Item>
+  </Group>
+  <Group Title="Nyheter 2022.1">
+    <Item Title="Uppdaterad licenshanterare" Icon="None" />
+    <Item Title="Tekniska förbättringar" Icon="None" />
+    <Item Title="Underkoncern" Icon="None">Förbättring vid import underkoncern</Item>
+  </Group>
+  <Group Title="Nyheter 2020.1">
+    <Item Title="Automatiska eliminering av koncernbidrag" Icon="None">Eliminering av koncernbidrag kan nu göras med automatik utan att justera för uppskjuten skatt. Läs mer i nyhetsbrevet om hur du får funktionen att fungera på nya och befintliga koncerner.</Item>
+    <Item Title="Förbättringar i kassaflödesanalysens avsnittsindelning" Icon="None" />
+    <Item Title="Förbättring vid redigering av koncernens noter" Icon="None" />
+    <Item Title="Steg för steg guiden för beräkningsmodulen har uppdaterats" Icon="None" />
+    <Item Title="Uppdaterad licenshanterare" Icon="None" />
+    <Item Title="Buggrättningar" Icon="None" />
+  </Group>
+</Information

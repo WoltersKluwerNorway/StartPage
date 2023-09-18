@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
   <Group Title="Skat Nova 2023.1" Version="2023.1">
-    <Item Link="https://software2.wolterskluwer.dk/nova/dokumentation/SkatNovaVersion20231.pdf" Title="Første version af Skat Nova 2023" Version="2023.1" Icon="Information">Vi er nu klar med en ny årgang af Skat Nova. Med Skat Nova 2023 kan du lave oplysningsskemaer, årsopgørelser og indkomst-/formueopgørelser (personlige regnskaber) for 2023.  &#13;&#10;&#13;&#10;Læs vejledningen for information om nyheder og ændringer i denne version af Skat Nova.</Item>
+    <Item Title="Nye satser for 2023 - kapitalafkast og rentekorrektion" Version="2023.1" Icon="Information">Vi har opdateret vores 2023 satser med de nye satser for kapitalafkast og rentekorrektion.&#13;&#10;&#13;&#10;Skatteforvaltningen har den 29. august 2023 offentliggjort kapitalafkastsatsen og rentekorrektionssatsen for 2023. Satserne er hhv. 3 % og 6 %.&#13;&#10;&#13;&#10;Ændringen betyder, at tidligere gemte filer for 2023, hvori der indgår enten en beregning af kapitalafkast eller en rentekorrektion, vil blive ændret, når disse filer åbnes.</Item>
+    <Item Link="https://software2.wolterskluwer.dk/nova/dokumentation/SkatNovaVersion20231.pdf" Title="Første version af Skat Nova 2023" Version="2023.1" Icon="Information">Vi er nu klar med en ny årgang af Skat Nova. Med Skat Nova 2023 kan du lave oplysningsskemaer, årsopgørelser og indkomst-/formueopgørelser (personlige regnskaber) for 2023.  &#10;&#10;Læs vejledningen for information om nyheder og ændringer i denne version af Skat Nova.</Item>
   </Group>
 </Information>

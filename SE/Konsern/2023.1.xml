@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
-    <Group Title="Nyheter 2023.1">
+  <Group Title="Nyheter 2023.1">
     <Item Title="Uppdaterad licenshanterare" Icon="None" />
     <Item Title="Tekniska förbättringar" Icon="None" />
     <Item Title="Underkoncern" Icon="None">Förbättring vid import underkoncern</Item>

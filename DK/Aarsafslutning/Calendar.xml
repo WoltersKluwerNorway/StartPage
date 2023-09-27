@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Calendar>
-  <CalendarEntry Date="2022-11-17T13:44:14" Id="0" Title="Årsafslutning 2022.3">Årsafslutning 2022.3 er tilgængelig.</CalendarEntry>
-  <CalendarEntry Date="2023-02-07T13:44:14" Id="0" Title="Årsafslutning 2022.4"> Årsafslutning 2022.4. er tilgængelig. Indeholder blandt andet den nye XBRL taksonomi.</CalendarEntry>
+  <CalendarEntry Date="2023-02-07T13:44:14" Id="0" Title="Årsafslutning 2022.4">Årsafslutning 2022.4. er tilgængelig. Indeholder blandt andet den nye XBRL taksonomi.</CalendarEntry>
+  <CalendarEntry Date="2023-10-24T13:44:14" Id="0" Title="Årsafslutning 2023.1">Årsafslutning 2023.1 forventes at blive tilgængelig.&#13;&#10;Indeholder blandt andet tilføjelse så der kan indberettes med MitID.</CalendarEntry>
 </Calendar>

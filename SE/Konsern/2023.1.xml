@@ -5,7 +5,6 @@
     <Item Title="Fler elimineringsrader vid internförsäljning" Icon="None">När man valt mallen för funktionsindelad resultaträkning har   det funnits ett önskemål om att lägga till fler elimineringsrader i beräkningsbilagan Internförsäljning. Nu går det att eliminera även på raderna försäljningskostnader, administrationskostnader och forsknings- och utvecklingskostnader.</Item>
     <Item Title="Bättre hantering vid nedskrivning av aktier i dotterbolag" Icon="None">Nedskrivning av aktier i dotterföretag görs på sidan Andelar i koncernföretag för det aktuella dotterföretaget. Nedskrivningen återfördes felaktigt på beräkningsbilagan Eliminering i resultaträkning (Elim RR) för dotterföretaget. Eftersom nedskrivningen gjorts i moderbolaget ska nedskrivningsbeloppet återföras på beräkningsbilagan Eliminering i resultaträkning i moderföretaget och har därför ändrats. Förändringen påverkar endast eventuellt fördelat minoritetsintresse i resultaträkningen. Rättningen har gjorts på koncerner som har räkenskapsår som har startdatum från och med 2023-01-01. </Item>
     <Item Title="Övriga förbättringar" 
-    
   </Group>
   <Group Title="Nyheter 2022.1">
     <Item Title="Uppdaterad licenshanterare" Icon="None" />

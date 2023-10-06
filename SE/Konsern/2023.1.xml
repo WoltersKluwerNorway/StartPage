@@ -3,10 +3,6 @@
   <Group Title="Version 2022.3 är utbytt (2023-03-07)">
     <Item Title="Nu finns en rättad version av 2022.3 på vår supportsida att ladda ner" Icon="Information">Felet att den nya checklistan på sidan Planeringsmöte kunde bli på norska i vissa revisionsfiler är nu rättat. Inget annat är ändrat. Versionen heter likadant och du får inget meddelande att det finns en ny version att hämta.&#10;Vill du inte ladda ner den utbytta versionen nu, så kan du även fortsättningsvis i stället trycka på knappen &quot;Uppdatera/nollställ checklistan&quot; nedanför checklistan i respektive revisionsfil, så blir det den rätta nya checklistan - på svenska.</Item>
   </Group>
-  <Group Title="Version 2022.3: Nya checklistan på sidan Planeringsmöte ibland på norska">
-    <Item Title="Gör så här - om du har fått den nya checklistan på norska" Icon="Error">Den nya checklistan på sidan Planeringsmöte blev ibland på norska i vissa filer, men det räcker att du trycker på knappen &quot;Uppdatera/nollställ checklistan&quot; nedanför checklistan, så blir det den rätta nya checklistan - på svenska.&#13;&#10;==&gt; Vill du slippa trycka på den knappen i dina filer, så installera vår uppdaterade version per 230307.</Item>
-  </Group>
-<Information>
   <Item Title="Nyheter 2023.1" Icon=None" />
     <Item Title="Uppdaterad licenshanterare" Icon="None" />
   <Group Title="Nyheter 2023.1">

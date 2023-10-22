@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
   <Group Title="Årsafslutning 2023.1">
-    <Item Title="test" Version="2023.1" Icon="None">Test</Item>
+    <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/GuideTilMitID.pdf" Title="NemID Erhverv lukker den 31. oktober 2023" Version="2023.1" Icon="None">Det vil fra den 31. oktober 2023 ikke længere være muligt at anvende NemID, som medarbejder signatur til indberetning af Årsrapporter til Erhvervsstyrelsen.&#13;&#10;&#13;&#10;Ændringen betyder, at du fremover skal anvende MitID erhverv i stedet for NemID Erhverv.&#13;&#10;Ændringerne er implementeret i denne version af Årsafslutning.&#13;&#10;&#13;&#10;Du kan klikke på linket nedenfor for at se vores guide til hvordan du kommer i gang med at anvende MitID Erhverv.&#13;&#10;</Item>
     <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.4.pdf" Title="Nyheder til Årsafslutning 2023.1" Icon="Information">VIRKSOMHEDER&#10;  - Der kan indberettes med MitID&#10;&#10; INDKOMST- OG FORMUEOPGØRELSE&#10;  - xx&#10;&#10;Se vejledningen for detaljeret information om nyheder i Årsafslutning 2023.1.</Item>
     <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.2" Visible="False" Icon="Error">VISIBLE TEST</Item>
     <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.2" Visible="False" Icon="Error">VISIBLE TEST2 NEW</Item>

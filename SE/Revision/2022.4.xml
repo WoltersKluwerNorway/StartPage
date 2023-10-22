@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
+  <Group Title="Utbildning i revisionsprogrammet">
+    <Item Link="https://www.wolterskluwer.se/grundkurs-i-revisionsprogrammet-webbkurs-2-halvdagar" Title="Behöver du eller någon kollega utbildning i revisionsprogrammet?" Icon="Information">Nedan hittar du länk till information om, och anmälan till, utbildningen Grundkurs i revisionsprogrammet, som går som webbkurs under två halvdagar vid två tillfällen hösten 2023.</Item>
+  </Group>
   <Group Title="Version 2022.3 är utbytt (2023-03-07)">
     <Item Title="Nu finns en rättad version av 2022.3 på vår supportsida att ladda ner" Icon="Information">Felet att den nya checklistan på sidan Planeringsmöte kunde bli på norska i vissa revisionsfiler är nu rättat. Inget annat är ändrat. Versionen heter likadant och du får inget meddelande att det finns en ny version att hämta.&#10;Vill du inte ladda ner den utbytta versionen nu, så kan du även fortsättningsvis i stället trycka på knappen &quot;Uppdatera/nollställ checklistan&quot; nedanför checklistan i respektive revisionsfil, så blir det den rätta nya checklistan - på svenska.</Item>
   </Group>
   <Group Title="Version 2022.3: Nya checklistan på sidan Planeringsmöte ibland på norska">
-    <Item Title="Gör så här - om du har fått den nya checklistan på norska" Icon="Error">Den nya checklistan på sidan Planeringsmöte blev ibland på norska i vissa filer, men det räcker att du trycker på knappen &quot;Uppdatera/nollställ checklistan&quot; nedanför checklistan, så blir det den rätta nya checklistan - på svenska.&#13;&#10;==&gt; Vill du slippa trycka på den knappen i dina filer, så installera vår uppdaterade version per 230307.</Item>
+    <Item Title="Gör så här - om du har fått den nya checklistan på norska" Icon="Error">Vi undersöker varför den nya checklistan på sidan Planeringsmöte blir på norska i vissa filer, men det räcker att du trycker på knappen &quot;Uppdatera/nollställ checklistan&quot; nedanför checklistan, så blir det den rätta nya checklistan - på svenska.</Item>
   </Group>
   <Group Title="Version 2022.3 (2023-02-22)">
     <Item Link="https://programleverans.wolterskluwer.se/programleverans/Revision/20224/Nyheter Revision.pdf" Title="Nytt i version 2022.3" Icon="Information">Nytt i denna version är:&#10;*  Uppdaterade revisionsberättelser och uppdragsbrev / ny ordbehandlingsmall, ver 24&#10;*  ISA 315-anpassningar&#10;*  Uppdatering av åtgärdsbanken - till uppdelade räkenskapspåståenden för RR respektive BR&#10;&#10;OBS! Eftersom det är många förändringar i programmet avseende ISA 315 i denna version är det viktigt att du läser detta nyhetsbrev extra noggrant, så att du inte missar någon viktig ny/förändrad funktion.&#10;&#10;Läs mer om detta och övriga nyheter i nyhetsbrevet i länken nedan.</Item>

@@ -2,10 +2,7 @@
 <Information>
    <Group Title="Årsavslutning utfases.">
       <Item Link="https://support.wolterskluwer.no/capego-arsoppgjor" Title="Oppgradering til Capego Årsoppgjør" Icon="None">Årsavslutning oppgraderes nå til Capego Årsoppgjør.</Item>
-      <Item Title="E-post om oppgradering">Alle våre kunder skal ha fått tilsendt to e-poster med informasjon om oppgraderingen til Capego Årsoppgjør.</Item>
-       <Item Link="https://support.wolterskluwer.no/manual/capego/capego-arsoppgjor-oppgradering-til-capego-arsoppgjor" Title="Oppgradering til Capego Årsoppgjør" Icon="None">Få mer informasjon på vår manualsider om oppgradering.</Item>
-      <Item Title="Ta kontakt med oss">Kontakt vår support på support@wolterskluwer.no dersom dere ikke har mottatt e-postene fra oss.</Item>
-       <Item Link="https://support.wolterskluwer.no/konsern" Title="Er du konsern-kunde" Icon="None">Få mer informasjon om konsernregnskap her.</Item>
+       <Item Link="https://support.wolterskluwer.no/konsern" Title="Er du konsernkunde" Icon="None">Få mer informasjon om konsernregnskap her.</Item>
       <Item Link="https://support.wolterskluwer.no/revisjon" Title="Er du revisjonskunde" Icon="None">Få mer informasjon om revisjonsprosessen her.</Item>
    </Group>
 </Information>

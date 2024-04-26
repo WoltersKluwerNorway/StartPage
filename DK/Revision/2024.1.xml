@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Information LastUpdate="2023-01-12T15:43:34">
+  <Group Title="Revision 2022.3" Version="2022.4">
+    <Item Link="https://software2.wolterskluwer.dk/revision/Dokumentation/nyhederrevision - 2022.3.pdf" Title="Revision 2022.3" Version="2022.4" Icon="Information">I denne version af Revision er der følgende nyheder:&#13;&#10;&#13;&#10;Iboende risiko - mulighed for registrering af spektrum&#13;&#10;IT- systemer opdateret&#13;&#10;Ny side til genvurdering af &#13;&#10; - Regnskabsmæssige skøn&#13;&#10; - Områder der ikke er betydelige, men væsentlige&#13;&#10; - Overordnet risikovurdering&#13;&#10;&#13;&#10;Nye regnskabsområder - HUSK opdatering af handlingsbank hvis posttypeinddeling overføres fra Årsafslutning</Item>
+  </Group>
+  <Group Title="Revision 2022.2" Version="2022.2">
+    <Item Link="https://software2.wolterskluwer.dk/revision/Dokumentation/nyhederrevision - 2022.2.pdf" Title="Revision 2022.2" Icon="Information">I denne version af Revision er der følgende nyheder:&#10;&#10;- ny teknisk platform - print muligheder&#10;- Indledende handlinger er opdateret incl PEP erklæring fra kunde&#10;- Forståelse af kunde - beregning af væsentlighed &#10;- Udvidet gennemgang &#10;  - handlinger til regnskabsmæssige skøn tilføjet&#10;  - De fire særlige handlinger tilføjet til generelle handlinger&#10;- Covid19 Slutopgørelser lønninger opdateret&#10;- flere mindre tilrettelser</Item>
+  </Group>
+  <Group Title="Webinar">
+    <Item Link="https://www.youtube.com/watch?v=qn2o0IfCblI" Title="&quot;Tips &amp; Tricks&quot; i Wolters Kluwer Revision" Icon="Information">Webinaret viser hvordan du bruger:&#10;&#10;- Standard tekster&#10;- Modifikationer / fremhævelser&#10;- Årsrul af en fil&#10;&#10;se det optagede webinar her:</Item>
+  </Group>
+  <Group Title="Revision 2021.3A" Version="2021.8">
+    <Item Link="https://wktaaeu.force.com/dk/s/article/Revision-Hvordan-opdaterer-jeg-handlinger-uden-at-miste-noter-og-markeringer" Title="Husk at opdatere handlinger efter overførsel nyeste posttypeinddeling fra ÅRS" Icon="Warning">!! Vær opmærksom på at klik på Opdater kan nulstille &quot;Vurdering af risiko på revisionsmål&quot; i anslået risiko, hvis der opdateres fra handlingsbank 1.0.0 !!!!  &#13;&#10;&#13;&#10;De nye regnskabsområder læses ind i filen fra siden Anslået Risiko:&#13;&#10;&#13;&#10;1) Valg af handlinger&#13;&#10;2)  Klik på Opdater &#13;&#10;3)  Klik OK til at gemme filen&#13;&#10;4)  Klik straks på LUK</Item>
+    <Item Link="https://software2.wolterskluwer.dk/revision/Dokumentation/nyhederrevision - 2021.3A.pdf" Title="Revision 2021.3A (releaset 12.01.2022)" Version="2021.8" Icon="Information">I denne version af Revision er der følgende nyheder:&#10;&#10;- Revisor erklæringer er opdateret i forhold til IESAB Code.&#10;&#10;- Fejl i sammenfattende memo, pga ny handlinger ikke indlæst, repareret.</Item>
+    <Item Link="https://wktaaeu.force.com/dk/s/article/Revision-Hvordan-behandler-jeg-v%C3%A6sentlige-risici-p%C3%A5-regnskabsm%C3%A6ssige-sk%C3%B8n" Title="Regnskabsmæssige skøn - brug for hjælp?" Icon="Information">Har du brug for hjælp til at håndtere regnskabsmæssige skøn, få find guiden og meget mere hjælp på Revisions FAQ :</Item>
+    <Item Link="https://wktaaeu.force.com/dk/s/article/Revision-Hvordan-opdaterer-jeg-tekstskabeloner" Title="Gamle tekstskabeloner ?" Icon="Information">Har du husket at opdatere dine tekstskabeloner i din årsrullede Revisionsfil?&#13;&#10;&#13;&#10;Ellers kan du finde en hurtig guide til det og meget mere via linket her:</Item>
+  </Group>
+</Information>

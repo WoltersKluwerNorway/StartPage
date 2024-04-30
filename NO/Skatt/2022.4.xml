@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
-   <Group Title="Nyheter">
-    <Item Title="Personlig skattemelding">Versjonen støtter ikke personlig skattemelding. Ny løsning for personlig skattemelding og enkeltpersonforetak kommer i Capego Årsoppgjør våren 2023.</Item>
-    <Item Title="Innsendelse til Altinn for selskaper">Nå kan du sende inn skattemeldinger for selskaper! Altinn har nettopp åpnet opp for innsendelse for aksjeselskaper, selskaper med deltakerfastsetting, NOKUS-selskaper og selskaper som omfattes av petroleumsskatteloven § 1. Vi har implementert de nyeste Altinn-definisjonene som må til for å gjøre slik innsendelse mulig.</Item>
-    <Item Title="Petroleumsbeskatning">Det er foretatt endringer i skjemaene for petroleumsbeskatning (RF-1323 og RF-1346) siden forrige versjon i januar.</Item>
-     <Item Title="Kom i gang med Capego Årsoppgjør i god tid før fristene">1. Last ned appen
-2. Logg inn som superbruker
-3. Knytt lisens til brukeren og opprett eventuelt flere brukere.</Item>
-    <Item Link="https://support.wolterskluwer.no/manual/capego/capego-arsoppgjor-oppgradering-til-capego-arsoppgjor" Title="Oppgradering til Capego" Icon="None">Få mer informasjon om oppgraderingen på våre manualsider.</Item>
+   <Group Title="Skatt utfases">
+    <Item Link="https://support.wolterskluwer.no/skatt" Title="Skatt er nå oppgradert til Capego Årsoppgjør" Icon="None"></Item>
+    <Item Link="https://support.wolterskluwer.no/" Title="Skattemelding gjennom Capego Årsoppgjør" Icon="None">I 2024 (inntektsåret 2023) må alle selskap levere den nye skattemeldingen gjennom Capego Årsoppgjør.</Item>
+      <Item Title="Korrigert skattemelding">Har du levert skattemeldingen for inntektsåret 2022 fra Skatt, må ev endringer sendes fra Skatt. Korrigert skattemelding skal sendes på samme format som ordinær innsending.</Item>
+
   </Group>
 </Information>

@@ -5,4 +5,5 @@
   <CalendarEntry Date="2023-10-31T13:44:14" Id="0" Title="NemID Erhverv lukker ned i Skat Nova">Fra den 31. oktober 2023 ikke længere være muligt at anvende NemID medarbejdersignaturer til hentning og indberetning af oplysninger til SKAT.&#10;&#10;Ændringen betyder, at du fremover skal anvende MitID Erhverv i stedet for NemID Erhverv.</CalendarEntry>
   <CalendarEntry Date="2024-02-05T13:44:14" Id="0" Title="Skat Nova 2023.3 er udkommet">I denne version er det muligt at hente R75 oplysning fra SKAT vedrørende indkomståret 2023</CalendarEntry>
   <CalendarEntry Date="2024-03-13T13:44:14" Id="0" Title="Skat Nova 2023.4 er udkommet">Med denne version kan du indberette oplysningsskemaer for 2023 elektronisk</CalendarEntry>
+  <CalendarEntry Date="2024-06-12T13:44:14" Id="0" Title="Skat Nova 2023.5 er udkommet">Denne version er hovedsagligt udsendt for at imødegå at visse antivirusprogrammer sletter en række midlertidige filer, der skal anvendes for at gemme Skat Nova filer korrekt.</CalendarEntry>
 </Calendar>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Information>
+   <Group Title="Skatt fases ut">
+    <Item Link="https://support.wolterskluwer.no/skatt" Title="Skatt lever videre i Capego Årsoppgjør" Icon="None"></Item>
+    <Item Link="https://support.wolterskluwer.no/" Title="Skattemelding gjennom Capego Årsoppgjør" Icon="None">I 2024 (inntektsåret 2023) må alle selskap levere den nye skattemeldingen gjennom Capego Årsoppgjør.</Item>
+      <Item Title="Korrigert skattemelding">Har du levert skattemeldingen for inntektsåret 2022 fra Skatt, må ev endringer sendes fra Skatt. Korrigert skattemelding skal sendes på samme format som ordinær innsending.</Item>
+    <Item Title="Skatt 2024.1">Denne versjonen er en ekstrautgave av det gamle skatteprogrammet som gjør det mulig for selskap å konvertere fra inntektsåret 2022 til inntektsåret 2023 i det gamle utgåtte RF-skjemaregime.
+	
+	Dette muliggjør for eksempel skatteberegninger for inntektsåret 2023 for virksomhetstyper som ennå ikke er klare til bruk i Capego Årsoppgjør. Selskap som har tidlig intern rapportering og behov for tidlig skatteberegning i januar kan ha nytte av denne versjonen.</Item>
+  </Group>
+</Information>

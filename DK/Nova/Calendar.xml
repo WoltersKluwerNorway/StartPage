@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Calendar>
-  <CalendarEntry Date="2023-09-26T13:44:14" Id="0" Title="Skat Nova 2022.5 er udkommet">I denne release har vi foretaget en række rettelser af mindre fejl fundet efter releasen af Skat Nova 2022.4.</CalendarEntry>
-  <CalendarEntry Date="2023-10-25T13:44:14" Id="0" Title="Skat Nova 2023.2 er udkommet">I denne version er det muligt at beregne forskudsskat 2024. De nye regler for ejendomsskat er desuden inkluderet.</CalendarEntry>
-  <CalendarEntry Date="2023-10-31T13:44:14" Id="0" Title="NemID Erhverv lukker ned i Skat Nova">Fra den 31. oktober 2023 ikke længere være muligt at anvende NemID medarbejdersignaturer til hentning og indberetning af oplysninger til SKAT.&#10;&#10;Ændringen betyder, at du fremover skal anvende MitID Erhverv i stedet for NemID Erhverv.</CalendarEntry>
-  <CalendarEntry Date="2024-02-05T13:44:14" Id="0" Title="Skat Nova 2023.3 er udkommet">I denne version er det muligt at hente R75 oplysning fra SKAT vedrørende indkomståret 2023</CalendarEntry>
-  <CalendarEntry Date="2024-03-13T13:44:14" Id="0" Title="Skat Nova 2023.4 er udkommet">Med denne version kan du indberette oplysningsskemaer for 2023 elektronisk</CalendarEntry>
   <CalendarEntry Date="2024-06-12T13:44:14" Id="0" Title="Skat Nova 2023.5 er udkommet">Denne version er hovedsagligt udsendt for at imødegå at visse antivirusprogrammer sletter en række midlertidige filer, der skal anvendes for at gemme Skat Nova filer korrekt.</CalendarEntry>
+  <CalendarEntry Date="2024-09-03T13:44:14" Id="0" Title="Skat Nova 2024.1 er udkommet">Med denne første 2024 version af Skat Nova, er det muligt at lave oplysningsskemaer, årsopgørelser og indkomst- og formueopgørelser (personlige regnskaber) for 2024.</CalendarEntry>
 </Calendar>

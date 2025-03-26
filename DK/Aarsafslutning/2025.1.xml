@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Information LastUpdate="2025-03-26T13:57:44">
+<Information LastUpdate="2025-03-26T14:00:17">
   <Group Title="Årsafslutning 2025.1" Version="2025.1">
-    <Item Title="Nyheder til Årsafslutning 2025.1" Version="2025.1" Icon="Information">Fejlrettelser:&#13;&#10; - Løsning af indberetningsproblemer&#13;&#10; - Der kan indberettes når man er logget ind som masterbruger&#13;&#10; - Man kan åbne posttypeinddelingen når man står i saldobalancen&#13;&#10; - Man kan gemme egen oplysninger i hosting miljøet</Item>
-    <Item Title="Fejl ved dannelse af XBRL filer" Version="2024.3" Icon="Information">Hvis du får følgende fejl ved dannelse af XBRL-filer:&#10;&#10;TReportCompilerCppClilnterface.CompileFile: CLI Exception throwes&quot;&quot;&gt;&apos; is an unexpected token. The expected token is&quot;&quot; or&quot;&quot;. Line 23, position 10.&quot;&#10;&#10;Document Samlingsdokument coulden&apos;t be updated.&#10;&#10;skyldes det, at du har en gammel forside skabelon, som skal opdateres.&#10;Når forsideskabelonen er opdateret, kan XBRL-filen dannes.</Item>
+    <Item Title="Nyheder til Årsafslutning 2025.1" Version="2025.1" Icon="Information">Fejlrettelser:&#10; - Løsning af indberetningsproblemer&#10; - Der kan indberettes når man er logget ind som masterbruger&#10; - Man kan åbne posttypeinddelingen når man står i saldobalancen&#10; - Man kan gemme egen oplysninger i hosting miljøet</Item>
     <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.2" Visible="False" Icon="Error">VISIBLE TEST</Item>
     <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.2" Visible="False" Icon="Error">VISIBLE TEST2 NEW</Item>
   </Group>

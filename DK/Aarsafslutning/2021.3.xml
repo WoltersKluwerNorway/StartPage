@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Information LastUpdate="2025-03-26T00:00:00">
+<Information LastUpdate="2025-03-27T08:44:09">
   <Group Title="Fejl i Årsafslutning 2021.3">
     <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2021.3.pdf" Title="Fejl ved &apos;Test og validering før indsendelse&apos;" Icon="Error">Årsafslutning 2021.3 melder fejl når funktionen &apos;Test og validering før indsendelse&apos; anvendes. &#10;Til validering af XBRL filen kan man istedet klikke på &apos;Indsend til erhvervsstyrelsen&apos; og klikke ja til at validere filen inden indsendelse. Så vil XBRL filen blive valideret på samme vis som ved funktionen &apos;Test og validering før indsendelse&apos;&#10;Får man ingen fejlbesked, men kommer direkte til indsendelsesvinduet. Så er XBRL filen valideret uden fejl, og indsendelsesvinduet kan lukkes.</Item>
     <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2021.3.pdf" Title="Funktionen reklassificer virker ikke" Icon="Error">Funktionen reklassificering fungerer ikke. Der kan istedet laves en efterpostering hvis beløb skal flyttes. &#10;Problemet vil være løst i næste version af Årsafslutning.</Item>

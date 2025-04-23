@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
+  <Group Title="Version 2025.1 (2025-04-23)">
+    <Item Link="https://programleverans.wolterskluwer.se/programleverans/Revision/20251/Nyheter Revision.pdf" Title="Nytt i version 2025.1" Icon="Information">De viktigaste nyheterna i denna version är:&#10;*  Uppdaterade revisionsberättelser och borttagna gamla mallar / ny ordbehandlingsmall, ver 25&#10;*  Hänvisning till elektronisk underskrift i revisionsberättelsen&#10;*  Möjlighet att notifiera person/-er att revisionsberättelsen har laddats upp till det egna utrymmet&#10;*  Ändringar i Guide för revisionsberättelse&#10;*  Sidan Väsentlighetstal: Beräkningsdialogen (ikonen med Spaden till höger om Övergripande väsentlighet)&#10;*  Uppdaterad ordbehandlare i programmet&#10;&#10;Läs mer om detta och övriga nyheter i nyhetsbrevet i länken nedan.</Item>
+  </Group>
   <Group Title="Utbildning i revisionsprogrammet">
-    <Item Link="https://www.wolterskluwer.se/grundkurs-i-revisionsprogrammet-webbkurs-2-halvdagar" Title="Behöver du eller någon kollega utbildning i revisionsprogrammet?" Icon="Information">Nedan hittar du länk till information om, och anmälan till, utbildningen Grundkurs i revisionsprogrammet, som går som webbkurs under två halvdagar vid två tillfällen hösten 2024, 15-16 okt &amp; 26-27 nov.</Item>
+    <Item Link="https://www.wolterskluwer.se/grundkurs-i-revisionsprogrammet-webbkurs-2-halvdagar" Title="Behöver du eller någon kollega utbildning i revisionsprogrammet?" Icon="Information">Nedan hittar du länk till information om, och anmälan till, utbildningen Grundkurs i revisionsprogrammet, som går som webbkurs under två halvdagar vid två tillfällen hösten 2025, 14-15 okt &amp; 25-26 nov.</Item>
   </Group>
   <Group Title="Version 2024.1.1 är utbytt (2024-06-04)">
     <Item Title="Nu finns en rättad version av 2024.1.1 på vår supportsida att ladda ner" Icon="Error">Felet att checklistan på sidan Planeringsmöte kunde bli på norska rättades i uppdatering 2024.1.1 (2024-05-21). Dock saknades en koppling så att Status och Noteringar i den checklistan - som man vill ha med till sina rapporter via länken &quot;Skapa egen rapport&quot; - inte kom med i rapporten. Detta är nu rättat.&#10;Inget annat är ändrat. Versionen heter likadant och du får inget meddelande att det finns en ny version att hämta.</Item>

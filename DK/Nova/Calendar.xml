@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Calendar>
-  <CalendarEntry Date="2024-10-24T13:44:14" Id="0" Title="Skat Nova 2024.2 er udkommet">Med denne version af Skat Nova 2024 er det nu også muligt at lave forskudsopgørelser for 2025.</CalendarEntry>
+<Calendar>  
   <CalendarEntry Date="2025-02-04T13:44:14" Id="0" Title="Skat Nova 2024.3 er udkommet">Med denne version er det bl.a. muligt at hente oplysninger fra Skattemappen (R75) samt beregne indfrysningslån på ejendomme.</CalendarEntry>
   <CalendarEntry Date="2025-03-25T13:44:14" Id="0" Title="Skat Nova 2024.4 er udkommet">Med denne version er det muligt at lave elektronisk indberetning til SKAT.</CalendarEntry>
+  <CalendarEntry Date="2025-05-08T13:44:14" Id="0" Title="Skat Nova 2024.5 er udkommet">Denne version indeholder en rækkes rettelser af både teknisk og faglig karakter.</CalendarEntry>
 </Calendar>

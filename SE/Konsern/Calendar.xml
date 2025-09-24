@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Calendar>
   
-  <CalendarEntry Date="2025-10-01T13:44:14" Id="0" Title="WK Koncern och Capego Koncern">Några utbildningar genomförs inte längre i WK Koncern som är det program du startat här och som kommer att läggas ner. Istället har vi utbildningar i vårt molnbaserade program Capego Koncern, som ersätter WK Koncern och som i allt väsentligt är samma program. Enda skillnaden är att Capego Koncern är en modul till Capego Bokslut och inte ett separat installerat program. Utbildningstillfällen för Capego Koncern ser du här nedanför. Du har god nytta av att gå utbildningarna även om du skulle fortsätta använda vårt klassiska koncernprogram WK Koncern. Vi har även inspelade kurser</CalendarEntry>
+  <CalendarEntry Date="2025-10-01T13:44:14" Id="0" Title="WK Koncern och Capego Koncern">Några utbildningar genomförs inte längre i WK Koncern som är det program du startat här och som kommer att läggas ner. Istället har vi utbildningar i vårt molnbaserade program Capego Koncern, som ersätter WK Koncern och som i allt väsentligt är samma program. Enda skillnaden är att Capego Koncern är en modul till Capego Bokslut och inte ett separat installerat program. Utbildningstillfällen för Capego Koncern ser du här nedanför. Du har god nytta av att gå utbildningarna även om du skulle fortsätta använda vårt klassiska koncernprogram WK Koncern. Vi har även inspelade kurser.</CalendarEntry>
   <CalendarEntry Date="2025-10-06T13:44:14" Id="0" Title="Visning av Capego Koncern">Är du nyfiken på att få se hur Capego Koncern fungerar? På denna visning får du en demo av programmet och kan efter visningen ställa frågor till oss direkt i chatten.</CalendarEntry>
   <CalendarEntry Date="2025-10-20T13:44:14" Id="0" Title="Grundkurs i Capego Koncern, 3 tim">Kursen för dig som vill lära dig grunderna i att arbeta i Capego Koncern. Det är en allmän genomgång av de vanligaste funktionerna för att du ska kunna komma igång och arbeta på egen hand.</CalendarEntry>
   <CalendarEntry Date="2025-12-10T13:44:14" Id="0" Title="Visning av Capego Koncern">Är du nyfiken på att få se hur Capego Koncern fungerar? På denna visning får du en demo av programmet och kan efter visningen ställa frågor till oss direkt i chatten.</CalendarEntry>
@@ -12,6 +12,7 @@
   <CalendarEntry Date="2026-01-27T13:44:14" Id="0" Title="Grundkurs i Capego Koncern, 3 tim">Kursen för dig som vill lära dig grunderna i att arbeta i Capego Koncern. Det är en allmän genomgång av de vanligaste funktionerna för att du ska kunna komma igång och arbeta på egen hand.</CalendarEntry>
   <CalendarEntry Date="2026-02-10T13:44:14" Id="0" Title="Fördjupning i Capego Koncern, 3 tim">På denna kurs fördjupar vi oss i några av funktionerna i Capego Koncern. Kursen vänder sig till dig som redan kan grunderna i Capego Koncern.</CalendarEntry>
   </Calendar>
+
 
 
 

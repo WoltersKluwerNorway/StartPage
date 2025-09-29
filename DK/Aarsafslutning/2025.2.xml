@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Information>
+  <Group Title="Årsafslutning 2025.2" Version="2025.2">
+    <Item Title="Gem efter årsrulning af fil" Version="2025.2" Icon="Error">Risiko for overskrivning af sidste års fil.&#13;&#10;&#13;&#10;Hvis man klikker gem efter årsrulning af Årsafslutningsfil, vil filen blive gemt oven i den fil der er rullet fra med samme navn som sidste års fil.&#13;&#10; Det er derfor vigtigt at man bruger &apos;Gem som&apos; efter årsrulning, og ændrer filnavnet, så den ikke gemmes oveni sidste års fil.&#13;&#10;&#13;&#10;Vi arbejder på at løse problemet hurtigst muligt.</Item>
+    <Item Title="Nyheder til Årsafslutning 2025.2" Version="2025.2" Icon="Information">Rettelser af iXBRL-fejl </Item>
+    <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.2" Visible="False" Icon="Error">VISIBLE TEST</Item>
+    <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.2" Visible="False" Icon="Error">VISIBLE TEST2 NEW</Item>
+  </Group>
+</Information>

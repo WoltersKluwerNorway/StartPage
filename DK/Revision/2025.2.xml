@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Information LastUpdate="2025-08-25T00:00:00">
+  <Group Title="Revision 2025.2" Version="2025.2">
+    <Item Link="https://software2.wolterskluwer.dk/revision/Dokumentation/nyhederrevision - 2025.2.pdf" Title="Revision 2025.2" Version="2025.2" Icon="Information">I denne version af Revision er der følgende nyheder:&#13;&#10;&#13;&#10;ISA for LCE standard</Item>
+    <Item Link="https://wktaaeu.force.com/dk/s/article/Revision-Hvordan-behandler-jeg-v%C3%A6sentlige-risici-p%C3%A5-regnskabsm%C3%A6ssige-sk%C3%B8n" Title="Regnskabsmæssige skøn - brug for hjælp?" Icon="Information">Har du brug for hjælp til at håndtere regnskabsmæssige skøn, få find guiden og meget mere hjælp på Revisions FAQ :</Item>
+    <Item Link="https://wktaaeu.force.com/dk/s/article/Revision-Hvordan-opdaterer-jeg-tekstskabeloner" Title="Gamle tekstskabeloner ?" Icon="Information">Har du husket at opdatere dine tekstskabeloner i din årsrullede Revisionsfil?&#10;&#10;Ellers kan du finde en hurtig guide til det og meget mere via linket her:</Item>
+  </Group>
+  <Group Title="Webinar">
+    <Item Link="https://www.youtube.com/watch?v=qn2o0IfCblI" Title="&quot;Tips &amp; Tricks&quot; i Wolters Kluwer Revision" Icon="Information">Webinaret viser hvordan du bruger:&#10;&#10;- Standard tekster&#10;- Modifikationer / fremhævelser&#10;- Årsrul af en fil&#10;&#10;se det optagede webinar her:</Item>
+  </Group>
+</Information>

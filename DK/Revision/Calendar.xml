@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Calendar>
   <CalendarEntry Date="2024-04-18T13:44:14" Id="0" Title="Revision 2024.1">Der er kommet en ny version af Wolters Kluwer Revision</CalendarEntry>
-  <CalendarEntry Date="2025-01-31T13:44:14" Id="0" Title="Revision ISA for LCE">Der udkommer en ny standard skabelon til at udføre Revision af ISA for LCE (less complex entities) i efteråret 2025.</CalendarEntry>
   <CalendarEntry Date="2025-03-25T13:44:14" Id="0" Title="Revision 2025.1">Der er kommet en ny version af Wolters Kluwer Revision.</CalendarEntry>
+  <CalendarEntry Date="2025-10-08T13:44:14" Id="0" Title="Revision 2025.2">Der udkommer en ny version af Wolter Kluwers Revision hvor der kan udføres Revision efter ISA for LCE .</CalendarEntry>
 </Calendar>

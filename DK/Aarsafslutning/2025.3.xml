@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
   <Group Title="Årsafslutning 2025.3" Version="2025.3">
-    <Item Title="Nyheder til Årsafslutning 2025.3" Version="2025.3" Icon="Information">Fejlrettelser:&#13;&#10; - Rettelse af indberetningsproblemer.&#13;&#10; - Når der gemmes en kundefil efter årsrulning vil kundefilen navngives med den nye regnskabsperiode så der ikke længere er risiko for at overskrive tidligere års filer.&#13;&#10;&#13;&#10;Capego Practice Management:&#13;&#10;- Capego Practice Management er nu blevet en integreret del af Årsafslutning.</Item>
+    <Item Title="Nyheder til Årsafslutning 2025.3" Version="2025.3" Icon="Information">Fejlrettelser:&#13;&#10; - Rettelse af indberetningsproblemer.&#13;&#10; - Når der gemmes en kundefil efter årsrulning vil kundefilen navngives med den nye regnskabsperiode så der ikke længere er risiko for at overskrive tidligere års filer.&#13;&#10; - Det er nu muligt at angive start- og slutdato for anvendelsen af digitalt bogføringssystem under &quot;Yderligere oplysninger&quot;.&#13;&#10;&#13;&#10;Capego Practice Management:&#13;&#10;- Capego Practice Management er nu blevet en integreret del af Årsafslutning.</Item>
     <Item Title="Nyheder til Årsafslutning 2025.3" Visible="False" Icon="Error">VISIBLE TEST</Item>
     <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.3" Visible="False" Icon="Error">VISIBLE TEST</Item>
     <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.3" Visible="False" Icon="Error">VISIBLE TEST2 NEW</Item>

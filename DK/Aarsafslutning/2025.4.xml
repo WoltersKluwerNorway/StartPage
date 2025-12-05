@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
   <Group Title="Årsafslutning 2025.4" Version="2025.4">
-    <Item Title="Nyheder til Årsafslutning 2025.4" Version="2025.4" Icon="Information">Fejlrettelser:&#13;&#10; - Rettelse af indberetningsproblemer.&#13;&#10; - Når der gemmes en kundefil efter årsrulning vil kundefilen navngives med den nye regnskabsperiode så der ikke længere er risiko for at overskrive tidligere års filer.&#13;&#10;&#13;&#10;Capego Practice Management:&#13;&#10;- Capego Practice Management er nu blevet en integreret del af Årsafslutning.</Item>
-    <Item Title="Nyheder til Årsafslutning 2025.4" Visible="False" Icon="Error">VISIBLE TEST</Item>
+    <Item Title="Nyheder til Årsafslutning 2025.4" Version="2025.4" Icon="Information">Forbedringer&#13;&#10; - Der er tilføjet nye tekstmoduler i revisionspåtegningen, som kan anvendes, når ISA for LCE benyttes. &#13;&#10; - Forbedret visning af Årsafslutningsvinduet &#13;&#10; - Løsning af indberetningsproblematikker&#13;&#10; - Layoutet i årsrapporten er blevet justeret lidt for at årsrapporten i PDF-format ligner mere iXBRL-filen der indberettes til Erhvervsstyrelsen. </Item>
+    <Item Title="Test og validering af årsrapporter i iXBRL" Icon="Error">Vi arbejder på at udvikle en løsning, der gør det muligt at teste og validere årsrapporten i iXBRL-format, inden den indsendes til Erhvervsstyrelsen - på samme måde som den nuværende funktion for XBRL.</Item>
     <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.3" Visible="False" Icon="Error">VISIBLE TEST</Item>
     <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.3" Visible="False" Icon="Error">VISIBLE TEST2 NEW</Item>
   </Group>

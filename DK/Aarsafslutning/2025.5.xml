@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
-  <Group Title="Årsafslutning 2025.5" Version="2025.5">
-    <Item Title="Nyheder til Årsafslutning 2025.5" Version="2025.5" Icon="Information">Forbedringer&#13;&#10; - Der er tilføjet nye tekstmoduler i revisionspåtegningen, som kan anvendes, når ISA for LCE benyttes. &#13;&#10; - Forbedret visning af Årsafslutningsvinduet &#13;&#10; - Løsning af indberetningsproblematikker&#13;&#10; - Layoutet i årsrapporten er blevet justeret lidt for at årsrapporten i PDF-format ligner mere iXBRL-filen der indberettes til Erhvervsstyrelsen.</Item>
-    <Item Title="Test og validering af årsrapporter i iXBRL" Icon="Error">Vi arbejder på at udvikle en løsning, der gør det muligt at teste og validere årsrapporten i iXBRL-format, inden den indsendes til Erhvervsstyrelsen - på samme måde som den nuværende funktion for XBRL.</Item>
+  <Group Title="Årsafslutning 2026.1" Version="2026.1">
+    <Item Title="Nyheder til Årsafslutning 2026.1" Version="2026.1" Icon="Information">Forbedringer&#13;&#10; - Den nyeste taksonomi (01-10-2025) er blevet tilføjet&#13;&#10; - Det er nu muligt at teste og validere iXBRL-filen før den indsendes til Erhvervsstyrelsen&#13;&#10; - Note omkring &quot;Andre forpligtelser&quot; er tilføjet&#13;&#10; - Note omkring &quot;Nøgleoplysninger&quot; i Andelsboligforeninger er blevet opdateret så den nu er i overensstemmelse med nøgleoplysningsskemaet i BEK nr. 336 af 20/03/2025&#13;&#10; - Løsning af indberetningsproblematikker&#13;&#10; - Sidepanel er tilføjet for licenser der anvender TeamWork&#13;&#10; - Det er nu igen muligt at indsende årsrapporter i t.kr. og i anden valuta end DKK</Item>
+    <Item Title="Nyheder til Årsafslutning " Visible="False" Icon="Error" />
     <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.3" Visible="False" Icon="Error">VISIBLE TEST</Item>
     <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.3" Visible="False" Icon="Error">VISIBLE TEST2 NEW</Item>
   </Group>

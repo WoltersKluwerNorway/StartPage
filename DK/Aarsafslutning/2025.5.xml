@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
   <Group Title="Årsafslutning 2025.5" Version="2025.5">
-    <Item Title="Nyheder til Årsafslutning 2025.5" Version="2025.5" Icon="Information">Forbedringer&#13;&#10; - Den nyeste taksonomi (01-10-2025) er blevet tilføjet.&#13;&#10; - Note omkring &quot;Andre forpligtelser&quot; er tilføjet&#13;&#10; - Note omkring &quot;Nøgleoplysninger&quot; i Andelsboligforeninger er blevet opdateret så den nu er i overensstemmelse med nøgleoplysningsskemaet i BEK nr. 336 af 20/03/2025&#13;&#10; - Løsning af indberetningsproblematikker&#13;&#10; - Sidepanel er tilføjet for licenser der anvender TeamWork&#13;&#10; - Det er nu igen muligt at indsende årsrapporter i t.kr. og i anden valuta end DKK</Item>
-    <Item Title="Nyheder til Årsafslutning " Visible="False" Icon="Error" />
+    <Item Title="Nyheder til Årsafslutning 2025.5" Version="2025.5" Icon="Information">Forbedringer&#10; - Den nyeste taksonomi (01-10-2025) er blevet tilføjet.&#10; - Note omkring &quot;Andre forpligtelser&quot; er tilføjet&#10; - Note omkring &quot;Nøgleoplysninger&quot; i Andelsboligforeninger er blevet opdateret så den nu er i overensstemmelse med nøgleoplysningsskemaet i BEK nr. 336 af 20/03/2025&#10; - Løsning af indberetningsproblematikker&#10; - Sidepanel er tilføjet for licenser der anvender TeamWork&#10; - Det er nu igen muligt at indsende årsrapporter i t.kr. og i anden valuta end DKK</Item>
+    <Item Title="Test og validering af årsrapporter i iXBRL" Version="2025.5" Icon="Error">Vi arbejder på at udvikle en løsning, der gør det muligt at teste og validere årsrapporter i iXBRL-format, før de indsendes til Erhvervsstyrelsen.</Item>
     <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.3" Visible="False" Icon="Error">VISIBLE TEST</Item>
     <Item Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2022.1.pdf" Title="Nyheder til Årsafslutning 2022.3" Visible="False" Icon="Error">VISIBLE TEST2 NEW</Item>
   </Group>

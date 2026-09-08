@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
-  <Group Title="Skat Nova 2026.1" Version="2026.1">        
+  <Group Title="Skat Nova 2026.1" Version="2026.1">
+    <Item Title="Problemer med at anvende UNC-stier i Skat Nova 2026.1" Version="2026.1" Icon="Error">Vi har desværre konstateret, at brugen af UNC-stier til angivelse af placering af dette års og sidste års filer i Skat Nova 2026.1 ikke fungere efter hensigten.&#13;&#10;&#13;&#10;Vi arbejder i øjeblikket på en rettelse, som vi forventer vil være klar i løbet af denne uge (uge 37).</Item>
     <Item Link="https://software2.wolterskluwer.dk/nova/dokumentation/SkatNovaVersion20261.pdf" Title="Første version af Skat Nova 2026" Version="2026.1" Icon="Information">Vi er nu klar med en ny årgang af Skat Nova. Med Skat Nova 2026 kan du lave oplysningsskemaer, årsopgørelser og indkomst-/formueopgørelser (personlige regnskaber) for 2026.  &#10;&#10;Læs vejledningen for information om nyheder og ændringer i denne version af Skat Nova.</Item>
   </Group>
 </Information>
